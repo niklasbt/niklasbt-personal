@@ -24,9 +24,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/niklasbt
-  - link: https://www.linkedin.com/in/niklas-b-thompson-ph-d-aa05171b1/
-    icon_pack: ai
-    icon: linkedin
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/niklas-b-thompson-ph-d-aa05171b1/
 education:
   courses:
     - course: PhD in Inorganic Chemistry

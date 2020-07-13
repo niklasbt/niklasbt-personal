@@ -1,0 +1,13 @@
+# Font style metadata
+name = "Spectral"
+
+# Optional Google font URL
+google_fonts = "family=Spectral&display=swap" rel="stylesheet"
+
+# Font families
+# heading_font = "Lato"
+# body_font = "Merriweather"
+# nav_font = "Lato"
+# mono_font = "Roboto Mono"
+
+# font-family: 'Spectral', serif;

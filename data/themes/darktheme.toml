@@ -2,7 +2,7 @@
 name = "Minimal"
 
 # Is theme light or dark?
-light = "false"
+dark = "true"
 
 # Primary
 primary = "#D9E0E5"
@@ -14,6 +14,7 @@ menu_text_active = "#B9E9FF"
 menu_title = "#F0F0F0"
 
 # Home sections
+background = "#555555"
 home_section_odd = "#555555"
 home_section_even = "#555555"
 

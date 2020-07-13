@@ -1,11 +1,11 @@
 # Font style metadata
-name = "Mr Robot"
+name = "nbt font set"
 
 # Optional Google font URL
-google_fonts = "B612+Mono:400,700|Orbitron:400,700"
+google_fonts = "B612+Mono:400,700|Orbitron:400,700|Spectral"
 
 # Font families
-heading_font = "B612 Mono"
+heading_font = "Spectral"
 body_font = "B612 Mono"
 nav_font = "B612 Mono"
 mono_font = "B612 Mono"

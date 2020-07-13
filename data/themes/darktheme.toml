@@ -6,6 +6,7 @@ light = "false"
 
 # Primary
 primary = "#D9E0E5"
+secondary = "#FFFFFF"
 
 # Menu
 menu_primary = "#4A4A4A"

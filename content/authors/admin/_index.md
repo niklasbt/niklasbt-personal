@@ -10,9 +10,10 @@ authors:
   - admin
 bio: SHORT BIO.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Inorganic Chemistry
+  - Bioinorganic Chemistry
+  - Spectroscopy
+  - Quantum Chemistry
 social:
   - icon: envelope
     icon_pack: fas
@@ -23,6 +24,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/niklasbt
+  - link: https://www.linkedin.com/in/niklas-b-thompson-ph-d-aa05171b1/
+    icon_pack: ai
+    icon: linkedin
 education:
   courses:
     - course: PhD in Inorganic Chemistry

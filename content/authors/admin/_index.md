@@ -44,6 +44,4 @@ user_groups:
   - Visitors
 ---
 
-BIO
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Niklas Thompson is currently a NIH Ruth L. Kirschstein Postdoctoral Fellow appointed at the Massachusetts Institute of Techology under the mentorship of Prof. Daniel L. M. Suess.

@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017"
   date_end = ""
-  description = "Presented a talk entitled: "_Cleaving the Strongest Bond in Nature: Nitrogen Fixation with Iron Catalysis_"."
+  description = "Presented a talk entitled: _Cleaving the Strongest Bond in Nature: Nitrogen Fixation with Iron Catalysis_."
   
 [[item]]
   organization = "The Dow Chemical Company and The Resnick Sustainability Institute"

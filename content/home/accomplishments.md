@@ -21,8 +21,21 @@ date_format = "2006"
 [[item]]
   organization = "National Institutes of Health"
   title = "Ruth L. Kirschstein Postdoctoral Individual National Research Service Award (F32)"
-  date_start = "2018-10-01"
+  date_start = "2020-10-01"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "Occidental College"
+  title = "Selected Lecturer for the Gray-Hill Chemistry Seminar Series"
+  date_start = "2017-10-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "The Dow Chemical Company and the Resnick Sustainability Institute"
+  title = "Dow Sustainability Innovation Student Challenge Award, Grand Prize"
+  date_start = "2015-10-01"
+  date_end = ""
+  description = ""
 +++

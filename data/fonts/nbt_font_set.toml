@@ -7,5 +7,5 @@ google_fonts = "B612+Mono:400,700|Orbitron:400,700|Spectral"
 # Font families
 heading_font = "Spectral"
 body_font = "Spectral"
-nav_font = "Orbitron"
+nav_font = "Spectral"
 mono_font = "Spectral"

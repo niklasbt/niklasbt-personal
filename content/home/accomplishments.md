@@ -52,4 +52,11 @@ date_format = "2006"
   date_start = "2013-10-01"
   date_end = ""
   description = ""
+  
+[[item]]
+  organization = "The Barry M. Goldwater Scholarship and Excellence in Education Foundation"
+  title = "Goldwater Scholar"
+  date_start = "2012-10-01"
+  date_end = ""
+  description = ""
 +++

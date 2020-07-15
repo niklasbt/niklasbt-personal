@@ -21,7 +21,7 @@ date_format = "2006"
 [[item]]
   organization = "National Institutes of Health"
   title = "Ruth L. Kirschstein Postdoctoral Individual National Research Service Award (F32)"
-  date_start = "2018-1-1"
+  date_start = "2018-01-1"
   date_end = ""
   description = ""
 

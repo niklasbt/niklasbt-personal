@@ -27,25 +27,5 @@ date_format = "Jan 2006"
   date_start = "2020-3-11"
   date_end = ""
   description = ""
-
-[[item]]
-  organization = "Occidental College"
-  organization_url = ""
-  title = "Selected Lecturer for the Gray-Hill Chemistry Seminar Series"
-  url = ""
-  certificate_url = ""
-  date_start = "2017"
-  date_end = ""
-  description = "Presented a talk entitled: _Cleaving the Strongest Bond in Nature: Nitrogen Fixation with Iron Catalysis_."
   
-[[item]]
-  organization = "The Dow Chemical Company and The Resnick Sustainability Institute"
-  organization_url = ""
-  title = "Grand Prize, Dow Sustainability Innovation Student Challenge Award"
-  url = ""
-  certificate_url = ""
-  date_start = "2015"
-  date_end = ""
-  description = ""
-
 +++

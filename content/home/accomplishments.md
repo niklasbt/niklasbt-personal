@@ -33,9 +33,23 @@ date_format = "2006"
   description = ""
   
 [[item]]
-  organization = "The Dow Chemical Company and the Resnick Sustainability Institute"
+  organization = "The Dow Chemical Company and The Resnick Sustainability Institute"
   title = "Dow Sustainability Innovation Student Challenge Award, Grand Prize"
   date_start = "2015-10-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "The Resnick Sustainability Institute"
+  title = "Dow-Resnick Graduate Fellowship"
+  date_start = "2014-10-01"
+  date_end = "2017-10-01"
+  description = ""
+  
+[[item]]
+  organization = "The University of Chicago"
+  title = "Francis E. Knock Prize for Outstanding Academic Achievement in Chemistry"
+  date_start = "2013-10-01"
   date_end = ""
   description = ""
 +++

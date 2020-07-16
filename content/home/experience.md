@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Graduate Teaching Assistant, Calfornia Institute of Technology"
   company_url = ""
   location = ""
-  date_start = "2017-01-01"
-  date_end = "2017-01-01"
+  date_start = "2017-04-01"
+  date_end = "2017-06-01"
   description = """Prepared and taught lectures on theoretical and practical aspects of M&ouml;ssbauer and X-ray Absorption spectroscopy; Prepared and graded weekly assignments."""
 
 [[experience]]

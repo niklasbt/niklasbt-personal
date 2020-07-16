@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "2006"
+date_format = "Jan 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -32,7 +32,7 @@ date_format = "2006"
   company_url = ""
   location = ""
   date_start = "2015-01-01"
-  date_end = "2015-01-01"
+  date_end = "2015-03-01"
   description = """Prepared and graded assesments covering graduate-level topics in organometallic chemistry, including electronic structure theory, elementary reaction mechanisms, and catalysis."""
 
 +++

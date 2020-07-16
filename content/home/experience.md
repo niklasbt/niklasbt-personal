@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -27,12 +27,12 @@ date_format = "Jan 2006"
   description = """Prepared and taught lectures on theoretical and practical aspects of M&oum;ssbauer and X-ray Absorption spectroscopy; Prepared and graded weekly assignments."""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Graduate Teaching Assistant, Organometallic Chemistry (Ch. 154a)"
+  company = "Calfornia Institute of Technology"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Lectured on theoretical and practical aspects of M."""
+  location = ""
+  date_start = "2015-01-01"
+  date_end = ""
+  description = """Prepared and graded assesments covering graduate-level topics in organometallic chemistry, including electronic structure theory, elementary reaction mechanisms, and catalysis."""
 
 +++

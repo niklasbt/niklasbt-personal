@@ -24,7 +24,7 @@ date_format = "2006"
   location = ""
   date_start = "2017-01-01"
   date_end = ""
-  description = """Prepared and taught lectures on theoretical and practical aspects of M&oum;ssbauer and X-ray Absorption spectroscopy; Prepared and graded weekly assignments."""
+  description = """Prepared and taught lectures on theoretical and practical aspects of M&ouml;ssbauer and X-ray Absorption spectroscopy; Prepared and graded weekly assignments."""
 
 [[experience]]
   title = "Graduate Teaching Assistant, Organometallic Chemistry (Ch. 154a)"

@@ -35,13 +35,18 @@ height = "calc(100vh - 70px)"
   cta_icon = "user-circle"
 
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
-  align = "left"
+  title = "Publications"
+  content = ""
+  align = "right"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "cover4.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "slider_2.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = ""
+  cta_url = "publication/"
+  cta_icon_pack = "fas"
+  cta_icon = "book"
 
 [[item]]
   title = "Right"

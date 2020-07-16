@@ -16,7 +16,7 @@ height = "calc(100vh - 70px)"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "About"
+  title = ""
   content = ""
   align = "left"  # Choose `center`, `left`, or `right`.
 
@@ -29,13 +29,13 @@ height = "calc(100vh - 70px)"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = ""
+  cta_label = "About"
   cta_url = "#about"
   cta_icon_pack = "fas"
   cta_icon = "user-circle"
 
 [[item]]
-  title = "Publications"
+  title = ""
   content = ""
   align = "right"
 
@@ -43,13 +43,13 @@ height = "calc(100vh - 70px)"
   overlay_img = "slider_2.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
-  cta_label = ""
+  cta_label = "Publications"
   cta_url = "publication/"
   cta_icon_pack = "fas"
   cta_icon = "book"
 
 [[item]]
-  title = "Contact"
+  title = ""
   content = ""
   align = "center"
 
@@ -57,7 +57,7 @@ height = "calc(100vh - 70px)"
   overlay_img = "slider_3.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
-  cta_label = ""
+  cta_label = "Contact"
   cta_url = "contact/"
   cta_icon_pack = "fas"
   cta_icon = "envelope"

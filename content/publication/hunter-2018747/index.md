@@ -7,6 +7,6 @@ abstract: "We report in situ spectroscopic measurements in nonaqueous media desi
 featured: false
 publication: "*Joule*"
 tags: ["electrocatalysis", "water splitting", "water oxidation", "solar fuels", "spectroscopy", "layered double hydroxides", "electrochemistry", "spectroelectrochemistry", "catalysis"]
-url_pdf: "http://www.sciencedirect.com/science/article/pii/S2542435118300369"
+url_pdf: ""
 doi: "https://doi.org/10.1016/j.joule.2018.01.008"
 ---

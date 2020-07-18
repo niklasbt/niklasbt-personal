@@ -1,5 +1,5 @@
 ---
-title: "Intramolecular C--H and C--F Bond Oxygenation Mediated by a Putative Terminal Oxo Species in Tetranuclear Iron Complexes"
+title: "Intramolecular C–H and C–F Bond Oxygenation Mediated by a Putative Terminal Oxo Species in Tetranuclear Iron Complexes"
 date: 2016-02-01
 authors: ["Graham de Ruiter", "Niklas B. Thompson", "Michael K. Takase", "Theodor Agapie"]
 publication_types: ["2"]

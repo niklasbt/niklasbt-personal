@@ -18,7 +18,7 @@ height = "calc(100vh - 70px)"
 [[item]]
   title = ""
   content = ""
-  align = "left"  # Choose `center`, `left`, or `right`.
+  align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -51,7 +51,7 @@ height = "calc(100vh - 70px)"
 [[item]]
   title = ""
   content = ""
-  align = "center"
+  align = "right"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "slider_3.png"  # Image path relative to your `static/img/` folder.

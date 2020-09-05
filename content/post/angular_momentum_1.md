@@ -7,6 +7,6 @@ We will deal with  &ldquo;sets&rdquo; and their elements; axiomatically, a set $
 
 An important concept, which is developed further next time, is how sets can be used to construct new sets. One straightforward way to do this is, given two sets $A$ and $B$, to define a new set composed of all ordered pairs $(a,b)$ of elements $a \in A$ and $b \in B$. This new set is called the <b>Cartesian</b> or <b>direct product</b> and is denoted,
        
-                $$ A \times B \equiv \{(a,b)\mid a \in A \text{ and } b\in B\} $$
+$A \times B \equiv \{(a,b)\mid a \in A \text{ and } b\in B\}$
 
 The familiar example is the construction of the Euclidean plane by taking the direct product of the real numbers with itself, $\mathbb{R}^2 \equiv \mathbb{R}\times\mathbb{R}$.

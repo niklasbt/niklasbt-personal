@@ -11,9 +11,9 @@ $$A \times B \equiv \\{(a,b)\mid a \in A \text{ and } b\in B\\}$$
 
 The familiar example is the construction of the Euclidean plane by taking the direct product of the real numbers with itself, $\mathbb{R}^2 \equiv \mathbb{R}\times\mathbb{R}$.
 
-Sometimes, as below, we will take liberties with notation, if it is clear in context. For example, one can consider \textit{addition} of elements of $\mathbb{N}$ to be a map $+:\mathbb{N}\times\mathbb{N}\to\mathbb{N}$ such that for $a,b\in\mathbb{N}$ we write $+(a,b) \equiv a + b$. Henceforth, numbers (scalars) will be denoted with normal-weight typeface, vectors will be denoted with lowercase bold-weight typeface, and vector spaces will be denoted with uppercase typeface (\textit{vide infra}). Later we will introduce Dirac (bra--ket) notation for vectors.
+Sometimes, as below, we will take liberties with notation, if it is clear in context. For example, one can consider <i>addition</i> of elements of $\mathbb{N}$ to be a map $+:\mathbb{N}\times\mathbb{N}\to\mathbb{N}$ such that for $a,b\in\mathbb{N}$ we write $+(a,b) \equiv a + b$. Henceforth, numbers (scalars) will be denoted with normal-weight typeface, vectors will be denoted with lowercase bold-weight typeface, and vector spaces will be denoted with uppercase typeface (\textit{vide infra}). Later we will introduce Dirac (bra--ket) notation for vectors.
 
-\section{Complex vector spaces}
+## Complex vector spaces
 The types of sets that are the concern of quantum mechanics are built up from vector spaces (more specifically the structure of a Hilbert space). A \textbf{complex vector space} is a collection of elements $\bm{v} \in V$ and two maps $+:V\times V \to V$ and $\cdot: \mathbb{C}\times V\to V$ that satisfies:
 	\begin{align}
 		&\forall\ \bm{v_1},\bm{v_2} \in V,\ \bm{v_1} + \bm{v_2} \in V \text{ (\textit{closure})} \\

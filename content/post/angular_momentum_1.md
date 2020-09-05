@@ -15,13 +15,15 @@ Sometimes, as below, we will take liberties with notation, if it is clear in con
 
 ## Complex vector spaces
 The types of sets that are the concern of quantum mechanics are built up from vector spaces (more specifically the structure of a Hilbert space). A \textbf{complex vector space} is a collection of elements $\bm{v} \in V$ and two maps $+:V\times V \to V$ and $\cdot: \mathbb{C}\times V\to V$ that satisfies:
-	\begin{align}
-		&\forall\ \bm{v_1},\bm{v_2} \in V,\ \bm{v_1} + \bm{v_2} \in V \text{ (\textit{closure})} \\
-		&\forall\  \bm{v_1},\bm{v_2},\bm{v_3} \in V,\ (\bm{v_1} + \bm{v_2}) + \bm{v_3} = \bm{v_1} + (\bm{v_2} + \bm{v_3}) \text{ (\textit{associativity})}\\
-		&\forall\  \bm{v_1},\bm{v_2} \in V,\ \bm{v_1} + \bm{v_2} = \bm{v_2} + \bm{v_1} \text{ (\textit{commutativity})} \\
-		&\exists\  \bm{0} \in V, \text{ such that } \forall\ \bm{v} \in V,\ \bm{v} + \bm{0} = \bm{v} \text{ (\textit{identity})} \\
-		&\forall\ \bm{v} \in V,\ \exists\ \bm{-v} \in V \text{ such that } \bm{v} + (\bm{-v}) = \bm{0} \text{ (\textit{additive inverses})}
-	\end{align}
+
+$$\forall\ \bm{v_1},\bm{v_2} \in V,\ \bm{v_1} + \bm{v_2} \in V \text{ (\textit{closure})} $$
+
+		$$ \forall\ \bm{v_1},\bm{v_2} \in V,\ \bm{v_1} + \bm{v_2} \in V \text{ (\textit{closure})} \\\\
+		\forall\  \bm{v_1},\bm{v_2},\bm{v_3} \in V,\ (\bm{v_1} + \bm{v_2}) + \bm{v_3} = \bm{v_1} + (\bm{v_2} + \bm{v_3}) \text{ (\textit{associativity})} \\\\
+		\forall\  \bm{v_1},\bm{v_2} \in V,\ \bm{v_1} + \bm{v_2} = \bm{v_2} + \bm{v_1} \text{ (\textit{commutativity})} \\\\
+		\exists\  \bm{0} \in V, \text{ such that } \forall\ \bm{v} \in V,\ \bm{v} + \bm{0} = \bm{v} \text{ (\textit{identity})} \\\\
+		\forall\ \bm{v} \in V,\ \exists\ \bm{-v} \in V \text{ such that } \bm{v} + (\bm{-v}) = \bm{0} \text{ (\textit{additive inverses})}$$
+    
 and,
 	\begin{align}
 		&\forall\ \alpha\in\mathbb{C},\ \bm{v} \in V,\ \alpha\cdot\bm{v} \in V \\
